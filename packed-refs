@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+999613002b660bc69634ac82bb4b0c356471e5ea refs/heads/glc
+a113d9ecd94dfcff3a9464c3e5c1828e5c48d290 refs/heads/main
+999613002b660bc69634ac82bb4b0c356471e5ea refs/remotes/origin/glc
+a113d9ecd94dfcff3a9464c3e5c1828e5c48d290 refs/remotes/origin/main
+1186f7f8a5c65540cb87a725f428f5d2e0c62816 refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/0
+ef731e74c304a21cd4b7bb55bdaf8ae63de433ae refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/1
+98cba75c3836fa8b2eb7441088694e4db985cafe refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/10
+7b28a2d70539564d6b09ac43bb2d1832157e0d1d refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/11
+54ff5c93c31f0dd911956935786e1ba700993ea5 refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/12
+d14300e8304cbc80abfbfd94e7df13ab6c2fc97e refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/13
+d46703f7fee2ceb1b3f7f554429bfa87265b51d5 refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/14
+bba01fcd72750652c662976af032d98e580a51d1 refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/2
+3b5b60b912c7e4411ce8112171e1b4ddcba69697 refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/3
+af28ab02520865383a10c334138a686f522ad688 refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/4
+05d24118e71ab19afc719b46ab4d42d6ae2ebd63 refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/5
+58f9e7a993f492f55b98f6b42da2b2303832ec7e refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/6
+7d65851349fecc373ace8d9aaa5af86677e3347b refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/7
+615e7197b9f5ff72f50b15cb09ca4b95e8a82d6e refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/8
+173b8052466e4c94cb32dfbe89df4ba96f2863ce refs/sessions/84664b58-7450-4a7a-b0c6-5981d9680974/checkpoints/turn/9

@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/Cleanskiier27/onedrive-vault.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "glc"]
+	remote = origin
+	merge = refs/heads/glc
+	vscode-merge-base = origin/main
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
